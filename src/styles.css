@@ -13,3 +13,11 @@ footer a {
   padding: 10px 10px 10px;
   text-decoration: none;
 }
+
+.contact-info{
+    text-align:center;
+}
+
+.contact-info .col-md{
+    text-align:center;
+}
