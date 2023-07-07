@@ -1,3 +1,9 @@
+
+h1{
+
+    text-align:center;
+    padding:20px 0px 20px;
+}
 footer {
   background: #f5f2fe;
   text-align: center;
@@ -19,5 +25,9 @@ footer a {
 }
 
 .contact-info .col-md{
+    text-align:center;
+}
+
+.icons{
     text-align:center;
 }
