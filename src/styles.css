@@ -5,3 +5,11 @@ footer {
   padding: 10px 10px 10px;
 }
 
+footer a {
+  background-color: purple;
+  color: white;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 10px 10px 10px;
+  text-decoration: none;
+}
